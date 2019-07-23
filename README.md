@@ -6,7 +6,7 @@
 1. Then run the commands below.
 
 ```sh
-$ git clone git@github.com:hayo0914/ReactNative-ImageBoardApp-Sample.git
+$ git clone git@github.com:seriousStar/rn-firebase-example.git
 $ cd ReactNative-ImageBoardApp-Sample
 
 $ yarn install 
